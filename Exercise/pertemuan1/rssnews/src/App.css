@@ -1,0 +1,31 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.title{
+  text-decoration: underline;
+  text-decoration-color: transparent;
+
+  transition:  all 5s;
+
+}
+.card:hover .title{
+  text-decoration-color: black;
+  transition:  all .4s;
+}
+.card:hover .img{
+  filter: blur(1px) brightness(0.5); ;
+    transform: scale(1.5);
+    transition:  all .4s;
+}
+.img{
+  transition:  all .4s;
+}
+.card:hover .bcg{
+  height: 200px;
+  transition: all .4s;
+}
+.bcg{
+  transition: all .4s;
+}
