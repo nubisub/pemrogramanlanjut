@@ -1,0 +1,26 @@
+<html>
+<head><title>
+Web Services
+</title></head>
+<body>
+<h1>Web Services</h1>
+<table width='100%' border='1'>
+<tr>
+<td>
+Endpoint
+</td>
+<td>
+Information
+</td>
+</tr>
+<tr>
+<td>
+<table border="0"><tr><td>Service Name:</td><td>{http://calculator.me.org/}CalculatorWS</td></tr><tr><td>Port Name:</td><td>{http://calculator.me.org/}CalculatorWSPort</td></tr></table>
+</td>
+<td>
+<table border="0"><tr><td>Address:</td><td>http://localhost:8080/CalculatorWSApplication/CalculatorWS</td></tr><tr><td>WSDL:</td><td><a href="http://localhost:8080/CalculatorWSApplication/CalculatorWS?wsdl">http://localhost:8080/CalculatorWSApplication/CalculatorWS?wsdl</a></td></tr><tr><td>Implementation class:</td><td>org.me.calculator.CalculatorWS</td></tr></table>
+</td>
+</tr>
+</table>
+</body>
+</html>
