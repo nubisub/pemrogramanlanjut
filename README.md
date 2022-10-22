@@ -7,9 +7,9 @@
 	<tbody>
 	<tr>
 			<td></td>
-			<td>Source Code</td>
+			<td>Code</td>
 			<td>Page</td>
-			<td>Source Code</td>
+			<td>Code</td>
 			<td>Page</td>
 	</tr>
 		<tr>
@@ -51,4 +51,3 @@
 		</tr>
 	</tbody>
 </table>
-
